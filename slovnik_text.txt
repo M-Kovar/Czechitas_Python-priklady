@@ -1,0 +1,7 @@
+      PoNdElI: 10
+uterY       : 15
+  STREDA : 40
+Ctvrtek: 8  
+PaTek: 11
+    SOBota      : 0 
+NedelE:     1       

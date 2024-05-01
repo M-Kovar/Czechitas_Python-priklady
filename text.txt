@@ -1,0 +1,1 @@
+Toto je libovolný řetězec, který si uložíme do souboru.

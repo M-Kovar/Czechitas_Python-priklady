@@ -1,0 +1,249 @@
+city,country,capital,population
+Tokyo,Japan,primary,37732000.0
+Jakarta,Indonesia,primary,33756000.0
+Manila,Philippines,primary,24922000.0
+Seoul,"Korea, South",primary,23016000.0
+Mexico City,Mexico,primary,21804000.0
+Cairo,Egypt,primary,20296000.0
+Dhaka,Bangladesh,primary,18627000.0
+Beijing,China,primary,18522000.0
+Bangkok,Thailand,primary,18007000.0
+Moscow,Russia,primary,17332000.0
+Buenos Aires,Argentina,primary,16710000.0
+Tehran,Iran,primary,14148000.0
+Kinshasa,Congo (Kinshasa),primary,12836000.0
+London,United Kingdom,primary,11262000.0
+Paris,France,primary,11060000.0
+Lima,Peru,primary,10320000.0
+Luanda,Angola,primary,9051000.0
+Kuala Lumpur,Malaysia,primary,8911000.0
+Hanoi,Vietnam,primary,8246600.0
+Bogotá,Colombia,primary,7968095.0
+Khartoum,Sudan,primary,7869000.0
+Hong Kong,Hong Kong,primary,7450000.0
+Riyadh,Saudi Arabia,primary,7237000.0
+Santiago,Chile,primary,7171000.0
+Madrid,Spain,primary,6211000.0
+Baghdad,Iraq,primary,6183000.0
+Singapore,Singapore,primary,5983000.0
+Nairobi,Kenya,primary,5545000.0
+Ankara,Turkey,primary,5503985.0
+Rangoon,Burma,primary,5209541.0
+Washington,United States,primary,5116378.0
+Abidjan,Côte d’Ivoire,primary,4980000.0
+Berlin,Germany,primary,4890363.0
+Cape Town,South Africa,primary,4770313.0
+Kabul,Afghanistan,primary,4273156.0
+Bamako,Mali,primary,4227569.0
+Amman,Jordan,primary,4007526.0
+Abuja,Nigeria,primary,3770000.0
+Algiers,Algeria,primary,3415811.0
+Athens,Greece,primary,3059764.0
+Addis Ababa,Ethiopia,primary,3041002.0
+Guatemala City,Guatemala,primary,3014000.0
+Kuwait City,Kuwait,primary,3000000.0
+Budapest,Hungary,primary,2997958.0
+Sanaa,Yemen,primary,2957000.0
+Tashkent,Uzbekistan,primary,2956384.0
+Kyiv,Ukraine,primary,2952301.0
+La Paz,Bolivia,primary,2867504.0
+Pyongyang,"Korea, North",primary,2863000.0
+Brasília,Brazil,primary,2817068.0
+Rome,Italy,primary,2748109.0
+Mogadishu,Somalia,primary,2610483.0
+Taipei,Taiwan,primary,2603150.0
+Damascus,Syria,primary,2584771.0
+Lusaka,Zambia,primary,2467563.0
+Ouagadougou,Burkina Faso,primary,2453496.0
+Yaoundé,Cameroon,primary,2440462.0
+Beirut,Lebanon,primary,2421354.0
+Bucharest,Romania,primary,2412530.0
+Accra,Ghana,primary,2388000.0
+Colombo,Sri Lanka,primary,2323826.0
+Baku,Azerbaijan,primary,2300500.0
+Antananarivo,Madagascar,primary,2300000.0
+Caracas,Venezuela,primary,2245744.0
+Vienna,Austria,primary,2223236.0
+Harare,Zimbabwe,primary,2150000.0
+Phnom Penh,Cambodia,primary,2129371.0
+Stockholm,Sweden,primary,2121000.0
+Havana,Cuba,primary,2089532.0
+Minsk,Belarus,primary,1995471.0
+Warsaw,Poland,primary,1860281.0
+San Juan,Puerto Rico,primary,1814587.0
+Quito,Ecuador,primary,1763275.0
+Brazzaville,Congo (Brazzaville),primary,1733263.0
+Montevideo,Uruguay,primary,1719453.0
+Tegucigalpa,Honduras,primary,1682725.0
+Kampala,Uganda,primary,1680600.0
+Conakry,Guinea,primary,1667864.0
+Sofia,Bulgaria,primary,1547779.0
+San José,Costa Rica,primary,1543000.0
+Kigali,Rwanda,primary,1518632.0
+Panama City,Panama,primary,1500189.0
+Abu Dhabi,United Arab Emirates,primary,1483000.0
+Amsterdam,Netherlands,primary,1459402.0
+Dakar,Senegal,primary,1438725.0
+Muscat,Oman,primary,1421409.0
+Ulaanbaatar,Mongolia,primary,1396288.0
+Copenhagen,Denmark,primary,1366301.0
+Helsinki,Finland,primary,1360075.0
+Prague,Czechia,primary,1357326.0
+Dublin,Ireland,primary,1263219.0
+Brussels,Belgium,primary,1235192.0
+Belgrade,Serbia,primary,1197714.0
+Doha,Qatar,primary,1186023.0
+Tripoli,Libya,primary,1183000.0
+Nay Pyi Taw,Burma,primary,1160242.0
+Bujumbura,Burundi,primary,1143202.0
+Maputo,Mozambique,primary,1133200.0
+Santo Domingo,Dominican Republic,primary,1128678.0
+Bishkek,Kyrgyzstan,primary,1120827.0
+Tbilisi,Georgia,primary,1118035.0
+N’Djamena,Chad,primary,1092066.0
+Astana,Kazakhstan,primary,1078362.0
+Nouakchott,Mauritania,primary,1077169.0
+Yerevan,Armenia,primary,1075800.0
+Ottawa,Canada,primary,1068821.0
+Oslo,Norway,primary,1064235.0
+Managua,Nicaragua,primary,1051236.0
+Ashgabat,Turkmenistan,primary,1030063.0
+Niamey,Niger,primary,1026848.0
+Monrovia,Liberia,primary,1021762.0
+Islamabad,Pakistan,primary,1014825.0
+Lilongwe,Malawi,primary,989318.0
+Port-au-Prince,Haiti,primary,987310.0
+Asmara,Eritrea,primary,963000.0
+Freetown,Sierra Leone,primary,951000.0
+Vientiane,Laos,primary,948487.0
+Jerusalem,Israel,primary,936425.0
+Riga,Latvia,primary,920643.0
+Bangui,Central African Republic,primary,889231.0
+Dushanbe,Tajikistan,primary,863400.0
+Kathmandu,Nepal,primary,845767.0
+Libreville,Gabon,primary,797003.0
+Zagreb,Croatia,primary,767131.0
+Pretoria,South Africa,primary,741651.0
+Vilnius,Lithuania,primary,716856.0
+Chisinau,Moldova,primary,702300.0
+Port Moresby,Papua New Guinea,primary,700000.0
+Cotonou,Benin,primary,679012.0
+Manama,Bahrain,primary,635000.0
+Tallinn,Estonia,primary,614561.0
+Djibouti,Djibouti,primary,603900.0
+Tunis,Tunisia,primary,602560.0
+Gaza,Gaza Strip,primary,590481.0
+Kingston,Jamaica,primary,580000.0
+Rabat,Morocco,primary,572717.0
+Lisbon,Portugal,primary,548703.0
+The Hague,Netherlands,primary,548320.0
+Skopje,North Macedonia,primary,526502.0
+Bissau,Guinea-Bissau,primary,492004.0
+Valletta,Malta,primary,480134.0
+Asunción,Paraguay,primary,477346.0
+Bratislava,Slovakia,primary,475503.0
+Juba,South Sudan,primary,459342.0
+Windhoek,Namibia,primary,431000.0
+Sarajevo,Bosnia and Herzegovina,primary,419957.0
+Tirana,Albania,primary,418495.0
+Banjul,"Gambia, The",primary,413397.0
+Canberra,Australia,primary,381488.0
+Maseru,Lesotho,primary,343541.0
+Nicosia,Cyprus,primary,330000.0
+San Salvador,El Salvador,primary,316090.0
+Saint-Denis,Reunion,primary,315080.0
+Sucre,Bolivia,primary,300000.0
+Malabo,Equatorial Guinea,primary,297000.0
+Ljubljana,Slovenia,primary,284293.0
+Nassau,"Bahamas, The",primary,274400.0
+Bloemfontein,South Africa,primary,256185.0
+Fort-de-France,Martinique,primary,253995.0
+New Delhi,India,primary,249998.0
+Gaborone,Botswana,primary,235884.0
+Paramaribo,Suriname,primary,223757.0
+Dili,Timor-Leste,primary,222323.0
+Wellington,New Zealand,primary,216200.0
+Georgetown,Guyana,primary,200500.0
+Pristina,Kosovo,primary,198897.0
+Suva,Fiji,primary,185913.0
+Nouméa,New Caledonia,primary,182341.0
+Podgorica,Montenegro,primary,173024.0
+Willemstad,Curaçao,primary,150000.0
+Port Louis,Mauritius,primary,149194.0
+Reykjavík,Iceland,primary,139875.0
+Gitega,Burundi,primary,135467.0
+Bern,Switzerland,primary,134506.0
+Porto-Novo,Benin,primary,133168.0
+Male,Maldives,primary,133019.0
+Luxembourg,Luxembourg,primary,132780.0
+Papeete,French Polynesia,primary,131695.0
+Sri Jayewardenepura Kotte,Sri Lanka,primary,115826.0
+Thimphu,Bhutan,primary,114551.0
+Bridgetown,Barbados,primary,110000.0
+Honiara,Solomon Islands,primary,84520.0
+Port of Spain,Trinidad and Tobago,primary,81142.0
+Mamoudzou,Mayotte,primary,71437.0
+Castries,Saint Lucia,primary,70000.0
+Putrajaya,Malaysia,primary,67964.0
+São Tomé,Sao Tome and Principe,primary,65468.0
+Praia,Cabo Verde,primary,61644.0
+Cayenne,French Guiana,primary,61550.0
+Mbabane,Eswatini,primary,60691.0
+Bandar Seri Begawan,Brunei,primary,50000.0
+Port-Vila,Vanuatu,primary,49034.0
+Dodoma,Tanzania,primary,45807.0
+Apia,Samoa,primary,37708.0
+Yamoussoukro,Côte d’Ivoire,primary,37253.0
+Monaco,Monaco,primary,36371.0
+Oranjestad,Aruba,primary,34980.0
+Gibraltar,Gibraltar,primary,34003.0
+Saint Helier,Jersey,primary,33522.0
+Lomé,Togo,primary,33000.0
+Majuro,Marshall Islands,primary,30000.0
+Tarawa,Kiribati,primary,28802.0
+Douglas,Isle of Man,primary,27938.0
+George Town,Cayman Islands,primary,27704.0
+Victoria,Seychelles,primary,24701.0
+Nuku‘alofa,Tonga,primary,23221.0
+Andorra la Vella,Andorra,primary,22615.0
+Saint John’s,Antigua and Barbuda,primary,22219.0
+Saint Peter Port,Guernsey,primary,18958.0
+Nuuk,Greenland,primary,18326.0
+Moroni,Comoros,primary,17267.0
+Belmopan,Belize,primary,17222.0
+Roseau,Dominica,primary,14725.0
+Kingstown,Saint Vincent and the Grenadines,primary,13857.0
+Tórshavn,Faroe Islands,primary,13326.0
+Basseterre,Saint Kitts and Nevis,primary,13220.0
+Road Town,"Virgin Islands, British",primary,12603.0
+Pago Pago,American Samoa,primary,12576.0
+Palikir,"Micronesia, Federated States of",primary,6227.0
+Funafuti,Tuvalu,primary,6025.0
+Lobamba,Eswatini,primary,5800.0
+Marigot,Saint Martin,primary,5700.0
+Vaduz,Liechtenstein,primary,5696.0
+Saint-Pierre,Saint Pierre and Miquelon,primary,5394.0
+Saint George’s,Grenada,primary,4315.0
+San Marino,San Marino,primary,4040.0
+Avarua,Cook Islands,primary,4009.0
+Grand Turk,Turks and Caicos Islands,primary,3700.0
+The Valley,Anguilla,primary,3269.0
+Tifariti,Morocco,primary,3000.0
+Capitol Hill,Northern Mariana Islands,primary,2500.0
+Gustavia,Saint Barthelemy,primary,2300.0
+Stanley,Falkland Islands (Islas Malvinas),primary,2213.0
+Philipsburg,Sint Maarten,primary,1894.0
+Longyearbyen,Svalbard,primary,1753.0
+Flying Fish Cove,Christmas Island,primary,1599.0
+Hagåtña,Guam,primary,1051.0
+Mata-Utu,Wallis and Futuna,primary,1029.0
+Hamilton,Bermuda,primary,854.0
+Vatican City,Vatican City,primary,825.0
+Yaren,Nauru,primary,747.0
+Jamestown,"Saint Helena, Ascension, and Tristan da Cunha",primary,714.0
+Alofi,Niue,primary,597.0
+Brades,Montserrat,primary,391.0
+Kingston,Norfolk Island,primary,341.0
+Basse-Terre,Guadeloupe,primary,307.0
+Ngerulmud,Palau,primary,271.0
+Adamstown,Pitcairn Islands,primary,47.0
